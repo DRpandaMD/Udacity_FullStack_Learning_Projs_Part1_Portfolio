@@ -1,0 +1,24 @@
+/* Body Selector? 
+*/
+
+body {
+	font-family: 'Roboto Mono', monospace;
+	color: #3385ff;
+	font-weight: 400;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
