@@ -22,3 +22,8 @@ body {
 .title-logo {
 	margin-top: 20px;
 }
+
+.button {
+	min-width: 48px;
+	min-height: 48px;
+}
