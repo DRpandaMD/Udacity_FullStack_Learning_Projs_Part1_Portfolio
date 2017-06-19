@@ -1,0 +1,11 @@
+/*
+*	Added css for responsive web page
+*/
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.header_menu {
+	display: none;
+}
