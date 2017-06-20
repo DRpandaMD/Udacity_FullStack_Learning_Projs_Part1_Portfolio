@@ -14,7 +14,7 @@
 	order: 10;
 }
 
-@media screen and (max-width: 549px)
+@media screen and (max-width: 610px)
 {
 	.header__logo {
 		height: 48px;
@@ -59,7 +59,7 @@
 	}
 }
 
-@media screen and (min-width: 500px)
+@media screen and (min-width: 611px)
 {
 	.hero {
 		order: 0;
